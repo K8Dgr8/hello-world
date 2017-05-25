@@ -1,2 +1,3 @@
 # hello-world
-My first github project
+This is my first github project.
+I dream of becoming a full stack web developer.
